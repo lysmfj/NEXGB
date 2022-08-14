@@ -1,6 +1,6 @@
 # NEXGB
 
-# Environment Requirement
+## Environment Requirement
 The code has been tested running under Python 3.7. The required package are as follows:
 * xgboost == 1.5.1
 * sklearn == 0.24.2
@@ -8,7 +8,7 @@ The code has been tested running under Python 3.7. The required package are as f
 * scipy ==1.4.1
 * pandas == 1.2.5
 
-# Dataset
+## Dataset
 Datasets used here::
 * [Protein-Protein Interaction Network](https://www.nature.com/articles/s41467-019-09186-x#Sec23) is a comprehensive human interactome network.
 * [Drug-protein Associations](https://www.nature.com/articles/s41467-019-09186-x#Sec23) are based on FDA-approved or clinically investigational drugs.
