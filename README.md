@@ -15,3 +15,7 @@ Datasets used here::
 * [Cell-protein Associations](https://maayanlab.cloud/Harmonizome/dataset/CCLE+Cell+Line+Gene+Expression+Profiles) is harvested from the Cancer Cell Line Encyclopedia.
 * [DrugCombDB](http://drugcombdb.denglab.org/main) is a database with the largest number of drug combinations to date.
 * [Oncology-Screen](http://www.bioinf.jku.at/software/DeepSynergy/) is an unbiased oncology compound screen datasets.
+
+## Network Embedding
+Regarding the struc2vec framework, you can refer to the implementation in https://github.com/leoribeiro/struc2vec
+
