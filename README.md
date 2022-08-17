@@ -17,5 +17,5 @@ Datasets used here::
 * [Oncology-Screen](http://www.bioinf.jku.at/software/DeepSynergy/) is an unbiased oncology compound screen datasets.
 
 ## Network Embedding
-Regarding the struc2vec framework, you can refer to the paper struc2vec: Learning Node Representations from Structural Identity.
+Regarding the struc2vec framework, you can refer to the paper *struc2vec: Learning Node Representations from Structural Identity*.
 
