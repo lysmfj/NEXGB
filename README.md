@@ -9,7 +9,7 @@ The code has been tested running under Python 3.7. The required package are as f
 * pandas == 1.2.5
 
 ## Dataset
-Datasets used here (accessed on 10 September 2021):
+Datasets used here (accessed on September 2021):
 * [Protein-Protein Interaction Network](https://www.nature.com/articles/s41467-019-09186-x#Sec23) 
 * [Drug-protein Associations](https://www.nature.com/articles/s41467-019-09186-x#Sec23) 
 * [Cell-protein Associations](https://maayanlab.cloud/Harmonizome/dataset/CCLE+Cell+Line+Gene+Expression+Profiles) 
